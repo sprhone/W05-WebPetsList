@@ -1,3 +1,4 @@
 
 target/classes/META-INF/persistence.xml
 WebContent/META-INF/persistence.xml
+/target/
